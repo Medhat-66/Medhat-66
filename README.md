@@ -35,8 +35,8 @@ I enjoy learning step by step and focusing on understanding concepts deeply.
 ---
 
 ### 📫 Connect with me
-- 📧 Email: vvgvgko@gmail.com
-- 💼 LinkedIn: (ضيف اللينك لما تجهزه)
+- 📧 Email: medhat6060m@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/medhat-mo7amed
 - 🐙 GitHub: https://github.com/Medhat-66
 
 ---
