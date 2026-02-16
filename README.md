@@ -33,7 +33,7 @@
 ### [cite_start]📫 Connect with me 
 - [cite_start]**LinkedIn:** [medhat-mo7amed](https://www.linkedin.com/in/medhat-mo7amed) [cite: 4]
 - [cite_start]**Kaggle:** [med7at55](https://www.kaggle.com/med7at55) [cite: 5]
-- [cite_start]**Email:** vvgvgko@gmail.com [cite: 2]
+- [cite_start]**Email:** medhat6060m.com [cite: 2]
 
 ---
 
