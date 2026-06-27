@@ -1,23 +1,27 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineer;Machine+Learning+Engineer;NLP+%26+Deep+Learning+Enthusiast;Always+Learning+New+Things+🚀)
+
 # Hi there 👋 I'm Medhat Mohamed
 
-🎓 Artificial Intelligence Student at Zagazig University  
-🤖 AI & Data Engineer | Machine Learning | NLP | Computer Vision  
+🎓 Artificial Intelligence Student at Zagazig University
+🤖 AI & Data Engineer | Machine Learning | NLP | Computer Vision
 📍 Zagazig, Egypt | Open to Remote Opportunities
 
-I'm an AI & Data Engineering student with hands-on experience in machine learning, deep learning, and NLP. I build end-to-end ML pipelines, train classification and regression models, and deliver actionable insights through interactive dashboards.
+</div>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**💻 Programming & Databases**  
+**💻 Programming & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**📊 Data Analysis & Visualization**  
+**📊 Data Analysis & Visualization**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
@@ -25,17 +29,17 @@ I'm an AI & Data Engineering student with hands-on experience in machine learnin
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-**🤖 Machine Learning & Deep Learning**  
+**🤖 Machine Learning & Deep Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**📝 NLP**  
+**📝 NLP**
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat&logo=python&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-4B8BBE?style=flat&logo=python&logoColor=white)
 
-**🔧 Tools & Platforms**  
+**🔧 Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -56,6 +60,20 @@ I'm an AI & Data Engineering student with hands-on experience in machine learnin
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Medhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medhat-66&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Medhat-66&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Medhat-66&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🎓 Education & Certifications
 
 - 🏛️ **B.Sc. Computer Science (AI)** — Zagazig University (2023–2027)
@@ -69,6 +87,22 @@ I'm an AI & Data Engineering student with hands-on experience in machine learnin
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/medhat-mo7amed)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/med7at55)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Medhat-66)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/medhat-mo7amed)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/med7at55)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Medhat-66)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medhat6060m@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201119754142)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Medhat-66&color=00D4FF&style=flat)
+
+⭐ *If you find my projects useful, consider giving them a star!* ⭐
+
+</div>
