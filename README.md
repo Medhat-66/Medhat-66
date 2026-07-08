@@ -68,8 +68,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Medhat-66&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Medhat-66&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Medhat-66&theme=tokyonight&hide_border=true)
 </div>
 
 ---
